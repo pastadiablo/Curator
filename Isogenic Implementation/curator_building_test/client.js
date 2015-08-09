@@ -8,7 +8,7 @@ var Client = IgeClass.extend({
 		this.gameTextures = {};
 		
 		// Load a game texture here
-		//this.gameTextures.myTexture = new IgeTexture('./assets/somePathToImage.png');
+		this.gameTextures.myTexture = new IgeTexture('./assets/Black Marble.png');
 		
 		///////////////////////////////////////////////////////////////////////////////
 		// *** PLEASE READ - BLANK PROJECT RUNNING DETAILS ***
